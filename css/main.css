@@ -50,7 +50,7 @@ p {
     background-repeat:space;
     background-size: cover;
     z-index: 1;
-    background-image: url("https://cdn.oyosf.com/assets/images/cover.webp ");
+    background-image: url("https://cdn.oyosf.com/images/cover.webp");
     opacity: 0.7;
 }
 
@@ -118,7 +118,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 1;
-    background-image: url("https://cdn.oyosf.com/assets/images/png-over.webp");
+    background-image: url("https://cdn.oyosf.com/images/png-over.webp");
     opacity: 0.8; 
     box-shadow:100px 110px black ;
 }
