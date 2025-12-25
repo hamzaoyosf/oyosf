@@ -70,6 +70,7 @@ p {
 }
 
 .content h1 {
+font-family: 'Montserrat', sans-serif;
     font-size: clamp(10rem, 100vw, 10rem);
     text-align: center;
     text-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
