@@ -10,8 +10,8 @@ body {
     height: 100%;
     /* background-color: black; Removed to show canvas */
     font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 100;
+    font-weight: 400;
+    /* Match the preloaded weight */
     font-style: normal;
 }
 
@@ -70,7 +70,6 @@ p {
 }
 
 .content h1 {
-font-family: 'Montserrat', sans-serif;
     font-size: clamp(10rem, 100vw, 10rem);
     text-align: center;
     text-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
